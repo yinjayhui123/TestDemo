@@ -49,9 +49,9 @@ public class Run {
         System.out.println(s == s2);
         System.out.println(b == b2);
 
-        ConcurrentHashMap<String,String> map = new ConcurrentHashMap<>();
-        map.put("","");
-        map.get("");
+//        ConcurrentHashMap<String,String> map = new ConcurrentHashMap<>();
+//        map.put("","");
+//        map.get("");
 
         int i = 0;
         do{
